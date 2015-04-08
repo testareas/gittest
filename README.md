@@ -3,4 +3,7 @@ My first Github test
  * foo
  * bar
  * baz
-http://example.com
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
